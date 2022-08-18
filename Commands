@@ -1,5 +1,8 @@
 git clone - this is to clone all the work that I do on github on the laptop
-git status -
-git add -
-git commit -
-git push -
+git status - this gives a report of what i have on the laptop and whats on github. If its red,
+it means that the file is not yet on github
+git add - this is a command to track the files that need to be added
+git commit - This is the description of what I am adding on my github
+e.g (git commit -m "learning git commands" )
+
+git push - it pushes everything to github
